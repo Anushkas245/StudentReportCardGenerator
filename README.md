@@ -35,3 +35,45 @@ This project simplifies the process of creating academic report cards, making it
 
    ```powershell
    Install-Package PdfSharp -Version 1.50.5147
+
+   ## Build and Run the Project
+
+Build and run the project.
+
+Use the Windows Forms UI to enter student details and generate report cards.
+
+## Usage
+
+- Launch the application.
+- Fill in the student’s name, roll number, and marks for subjects.
+- Click **Add Student** to save the entry.
+- Repeat for multiple students.
+- Select a student from the list and click **Generate PDF Report Card**.
+- The report card PDF will be generated and saved.
+
+## Grade Criteria (Example)
+
+| Percentage   | Grade |
+|--------------|-------|
+| 90% - 100%   | A+    |
+| 80% - 89%    | A     |
+| 70% - 79%    | B     |
+| 50% - 69%    | C     |
+| Below 50%    | Fail  |
+
+## Recording
+
+
+## Future Improvements
+
+- Add feature to export all report cards in bulk.
+- Include more subjects and customizable grading scales.
+- Add student photo on report cards.
+- Integrate database storage for student records.
+- Add functionality to email report cards directly.
+
+
+## Contact
+
+For any queries or contributions, please contact:  
+**Anushka Salkar** — anushkasalkar245@gmail.com
