@@ -64,6 +64,7 @@ Use the Windows Forms UI to enter student details and generate report cards.
 ## Recording
 
 
+
 ## Future Improvements
 
 - Add feature to export all report cards in bulk.
@@ -76,4 +77,7 @@ Use the Windows Forms UI to enter student details and generate report cards.
 ## Contact
 
 For any queries or contributions, please contact:  
+
 **Anushka Salkar** — anushkasalkar245@gmail.com
+
+**Linkedin** - www.linkedin.com/in/anushkas245
